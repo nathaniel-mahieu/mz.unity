@@ -1,0 +1,25 @@
+Package: mz.unity
+Type: Package
+Title: Detection of Complex Relationships In Mass Spectra
+Description: mz.unity is a collection of algorithms used for annotation of
+    high resolution mass spectra. The approach is charge aware, enabling the
+    incorporation of information relating neutral, positive, and negative ions
+    within the algorithm. mz.unity can annotate fine isotopic peaks, mass and/or charge shifts (adducts,
+    neutral losses), and complex relationships such as multimers and some fragments.
+Version: 0.1.0001
+Date: 2015-12-15
+Author: Nathaniel Guy Mahieu <nathaniel.mahieu@wustl.edu>
+Maintainer: Nathaniel Guy Mahieu <nathaniel.mahieu@wustl.edu>
+License: GPL-3
+Depends:
+    R (>= 3.1.0),
+    ggplot2,
+    magrittr,
+	igraph
+Imports:
+    matrixStats,
+    plyr,
+    igraph,
+    gtools,
+    R.utils
+RoxygenNote: 5.0.1
