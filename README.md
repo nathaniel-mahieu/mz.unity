@@ -1,6 +1,8 @@
 # mz.unity
 mz.unity is an R package for detecting and exploring complex relationships in accurate-mass mass spectrometry data.  Mz.unity implements a combiunatorial search which can be tailored to many specific relationships.  These include simple relationships like isotopes, charge carriers, and common neutral losses but also complex relationships such as distal fragments, mers, and background mers.  
 
+<img src="signals-with-atoms-of-others.png" title="plot of chunk unnamed-chunk-22" style="float: right; margin: auto;" />
+
 For more detailed information please see the forthcoming [publication](#).
 
 ## R Package
