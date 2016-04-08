@@ -1,20 +1,20 @@
 # mz.unity
-mz.unity is an R package for detecting and exploring complex relationships in accurate-mass mass spectrometry data.  Mz-unity implements a combiunatorial search which can be tailored to many specific relationships.  These include simple relationships like isotopes, charge carriers, and common neutral losses but also complex relationships such as distal fragments, mers, and background mers.  
+mz.unity is an R package for detecting and exploring complex relationships in accurate-mass mass spectrometry data.  Mz.unity implements a combiunatorial search which can be tailored to many specific relationships.  These include simple relationships like isotopes, charge carriers, and common neutral losses but also complex relationships such as distal fragments, mers, and background mers.  
 
 For more detailed information please see the forthcoming [publication](#).
 
 ## R Package
-mz-unity is available as an R package on GitHub: [nathaniel-mahieu/mz-unity](https://github.com/nathaniel-mahieu/mz-unity)
+mz.unity is available as an R package on GitHub: [nathaniel-mahieu/mz.unity](https://github.com/nathaniel-mahieu/mz.unity)
 
 ## Installation
 ```r
 #install.packages("devtools")
-devtools::install_github("nathaniel-mahieu/warpgroup")
+devtools::install_github("nathaniel-mahieu/mz.unity")
 ```
 
 ## Usage
 ```r
-library(mz-unity)
+library(mz.unity)
 relationships = mz.unity.search(A, B, M, ppm, BM.limits)
 ```
 
@@ -74,6 +74,7 @@ This plot is of the relationships involving glutamate, NAD and their dimer.  Agg
 
 # See Also
 - [Complex Examples](/inst/examples.md)
+- [Distal Fragment Examples](/inst/fragment_example.md)
 - [Troubleshooting and Tips](/inst/troubleshooting.md)
 
 # License
