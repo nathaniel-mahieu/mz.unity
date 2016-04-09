@@ -724,3 +724,5 @@ plot(c2, g, asp = .4, vertex.size = 2, edge.arrow.mode=1, edge.arrow.size = 0.3,
 ```
 
 <img src="figure_examples/unnamed-chunk-26-2.png" title="plot of chunk unnamed-chunk-26" alt="plot of chunk unnamed-chunk-26" style="display: block; margin: auto;" />
+
+![Analytics](https://ga-beacon.appspot.com/UA-76219673-1/examples.md?pixel)

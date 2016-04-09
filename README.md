@@ -81,3 +81,5 @@ This plot is of the relationships involving glutamate, NAD and their dimer.  Agg
 
 # License
 This project is licensed under the terms of the GPL-3 license.
+
+![Analytics](https://ga-beacon.appspot.com/UA-76219673-1/readme.md?pixel)

@@ -5,3 +5,4 @@
 * It is convenient both for memory and clarity to divide searches into groups which are related in their depth and type.  Many searches require only a depth of 1 as all the intermediate peaks are present. These can be separated from the larger depth searches such as cross-polarity and mer searches.
 
 
+![Analytics](https://ga-beacon.appspot.com/UA-76219673-1/troubleshooting.md?pixel)

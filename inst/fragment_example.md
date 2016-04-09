@@ -110,3 +110,5 @@ unity.specgraph(df2, spec, edgetypes)
 
 <img src="figure_fragment/unnamed-chunk-9-1.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" style="display: block; margin: auto;" />
 Here is a specgraph where the only parents are the protonated and deprotonated monoisotopic peaks of NAD.
+
+![Analytics](https://ga-beacon.appspot.com/UA-76219673-1/fragment_examples.md?pixel)
